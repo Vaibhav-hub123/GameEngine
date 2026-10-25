@@ -1,0 +1,19 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# Personal CMake preset overrides
+CMakeUserPresets.json
+
+# IDE / editor state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
